@@ -30,7 +30,7 @@ filled, 0 = empty).
 g++ truck_trip_optimizer.cpp -o optimizer
 ./optimizer
 
-g++ truck_loading_simulator.cpp -o simulator
+g++ truck_loading_sim.cpp -o simulator
 ./simulator
 ```
 
